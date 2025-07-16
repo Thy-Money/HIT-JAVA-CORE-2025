@@ -1,6 +1,6 @@
 # ignore all idea settings
-**/.idea/*
-**/out/*
+**/.idea
+**/out
 *.iws
 *.iml
 *.ipr
