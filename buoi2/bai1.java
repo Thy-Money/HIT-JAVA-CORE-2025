@@ -11,6 +11,7 @@ public class bai1 {
         int tuoi = sc.nextInt();
 
         System.out.print("Chieu cao: ");
-        Float chieucao = sc.nextFloat();
+        float chieucao = sc.nextFloat();
+        
     }
 }
