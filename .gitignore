@@ -1,12 +1,13 @@
 # ignore all idea settings
-**/.idea
-**/out
-*.iws
-*.iml
-*.ipr
-*.log
-*.xml
-*.class
+**/out/
+**/.idea/
+
+**/*.iws
+**/*.iml
+**/*.ipr
+**/*.log
+**/*.xml
+**/*.class
 
 # gradle project minimum
 !.idea/gradle.xml
