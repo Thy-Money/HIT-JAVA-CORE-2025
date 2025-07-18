@@ -12,6 +12,8 @@ public class bai1 {
 
         System.out.print("Chieu cao: ");
         float chieucao = sc.nextFloat();
+
+        System.out.print("Xin chao "+name+", bạn "+tuoi+" tuổi và cao "+chieucao+" mét" );
         
     }
 }

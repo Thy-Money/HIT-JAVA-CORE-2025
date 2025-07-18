@@ -17,7 +17,7 @@ public class bai3 {
         if (a == b) {
             System.out.println("Hai số bằng nhau.");
         } else {
-            System.out.println("Hai số KHÁC nhau.");
+            System.out.println("Hai số khác nhau.");
         }
     }
 }
